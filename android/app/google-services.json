@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498010955945",
+    "project_id": "urbansat-da931",
+    "storage_bucket": "urbansat-da931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498010955945:android:29915905dbc7727fdd09b8",
+        "android_client_info": {
+          "package_name": "com.example.urbansat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498010955945-go9sc9u0t646icdapsuhs0d7sa7nfub5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbansat",
+            "certificate_hash": "e9b00f0b07d46824c8e9561c6500f5de652e7d42"
+          }
+        },
+        {
+          "client_id": "498010955945-phevdofr9794ib73i3nqusgd7dkugc9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVpA47QfySOqFV1XKhY29ZWipcYmSpypQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498010955945-phevdofr9794ib73i3nqusgd7dkugc9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
